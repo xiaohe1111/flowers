@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flower</string>
+    <string name="按钮1">搜索花语</string>
+    <string name="按钮2">查看全部</string>
+    <string name="one">首页</string>
+    <string name="two">Flowers</string>
+    <string name="three">Flowers</string>
+    <string name="next">Next</string>
+    <string name="time">请输入你想查询的花语</string>
+</resources>
